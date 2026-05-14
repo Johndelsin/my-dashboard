@@ -1,5 +1,5 @@
 import OrderCard from "../components/OrderCard";
-import KpiCard from "../components/TempCard";
+import KpiCard from "../components/KpiCard";
 
 export default function HomePage(){
   const orders = [
