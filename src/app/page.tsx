@@ -15,7 +15,7 @@ export default function HomePage(){
 
       <div className="flex gap-4">
         <KpiCard title="Revenue" value="$1,020"/>
-        <KpiCard title="Total Orders" value={orders.length}/>
+        <KpiCard title="Orders" value={orders.length}/>
         <KpiCard title="Pending" value="1" />
       </div>
 
